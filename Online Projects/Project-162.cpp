@@ -1,0 +1,1 @@
+//Write a program in C++ to convert a binary number to hexadecimal number.

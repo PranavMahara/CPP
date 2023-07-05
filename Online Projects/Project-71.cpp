@@ -1,0 +1,1 @@
+// Write a C++ program to find the missing element from two given arrays of integers except one element

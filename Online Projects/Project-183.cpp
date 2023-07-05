@@ -1,0 +1,1 @@
+// Write a C++ program to check whether a given string is a subsequence of another given string. Return 1 for true and 0 for false.

@@ -1,0 +1,1 @@
+// Define a const array and pass it to a reader () function and a modifier () function which cahnger every character for an 'O'.Analyze what happends.

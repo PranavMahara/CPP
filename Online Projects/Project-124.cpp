@@ -1,0 +1,1 @@
+//Write a program in C++ to find Narcissistic decimal numbers within a specific range.

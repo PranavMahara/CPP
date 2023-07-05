@@ -1,0 +1,1 @@
+// Write a C++ program to find the element that appears once in an array of integers and every other element appears twice.

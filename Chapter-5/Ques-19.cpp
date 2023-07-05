@@ -1,0 +1,1 @@
+// C++ Program of square function using template specialization

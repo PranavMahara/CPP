@@ -1,0 +1,1 @@
+// Write a C++ program to find all elements in array of integers which have at-least two greater elements.

@@ -1,0 +1,1 @@
+// Write a C function to remove duplicates from an ordered array. 

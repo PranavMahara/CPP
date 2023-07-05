@@ -1,0 +1,1 @@
+//  Write a C++ program to count all the numbers with unique digits within a given range 0 = y < 10n where y represent the unique digits numbers and take n as a input from the user.

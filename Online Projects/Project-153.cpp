@@ -1,0 +1,1 @@
+//  Write a C++ program to sort (in descending order) an array of distinct elements according to absolute difference of array elements and with a given value.

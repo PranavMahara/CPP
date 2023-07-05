@@ -1,0 +1,1 @@
+// Write a program to check if two strings are same or not.
